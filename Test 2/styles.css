@@ -82,3 +82,10 @@ a{
 .container{
     display:flex;
 }
+
+.cake-item{
+    border: 1px dashes yellow;
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+}
